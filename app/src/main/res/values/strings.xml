@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Toolbar ActionMode Demo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!--  Action Mode Menu Items -->
+    <string name="delete">Delete</string>
+    <string name="copy">Copy</string>
+    <string name="forward">Forward</string>
+
+</resources>
